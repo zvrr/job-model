@@ -2,7 +2,7 @@
 
 ## 团队
 
-蚂蚁金服体验技术部，一直致力成为最专业有爱的团队。近几年我们逐步开源了 [Ant Design](https://github.com/ant-design)、[AntV](https://github.com/antvis)、[dva](https://github.com/dvajs)、[Egg.js](https://github.com/eggjs) 等产品，贡献了代码也收获好评。团队内还有好多大牛，如[玉伯](https://github.com/lifesinger)、[苏千](https://github.com/fengmk2)、[徐飞](https://github.com/xufei)、[死马](https://github.com/dead-horse)，[偏右](https://github.com/afc163)。
+蚂蚁金服体验技术部，一直致力成为最专业有爱的团队。近几年我们逐步开源了 [Ant Design](https://github.com/ant-design)、[AntV](https://github.com/antvis)、[dva](https://github.com/dvajs)、[Egg.js](https://github.com/eggjs) 等产品，贡献了代码也收获好评。团队内还有好多大牛，如[玉伯](https://github.com/lifesinger)、[苏千](https://github.com/fengmk2)、[徐飞](https://github.com/xufei)、[死马](https://github.com/dead-horse)、[偏右](https://github.com/afc163)、[死月](https://github.com/XadillaX)。
 
 我是 Egg.js 的核心开发者，在公司内主要做 Egg 开源、企业级框架和中间件、BaaS 服务、容器化等，对这些方向感兴趣的可以把简历提交给我 **guangao#antfin.com**。
 
